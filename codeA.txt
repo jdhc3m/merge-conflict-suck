@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is 987A-D680
+
+ Directory of C:\Users\jd158\Desktop\MergeConflict
+
+10/02/2018  03:46 PM    <DIR>          .
+10/02/2018  03:46 PM    <DIR>          ..
+10/02/2018  03:46 PM                 0 codeA.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  271,015,100,416 bytes free
